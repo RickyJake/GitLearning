@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 add some code
 
 Here is Feature 3
+=======
+Fix1
+>>>>>>> 5a18f96... Added fix1
